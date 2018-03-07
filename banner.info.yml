@@ -1,0 +1,6 @@
+name: Banner
+description: 'Баннер для страницы.'
+type: module
+core: 8.x
+version: 1.0
+package: Examples
